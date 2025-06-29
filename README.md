@@ -136,7 +136,7 @@ https://guc9zkb4ee.execute-api.us-east-2.amazonaws.com
 Para desarrollo local, puedes configurar las siguientes variables:
 
 ```env
-API_BASE_URL=https://guc9zkb4ee.execute-api.us-east-2.amazonaws.com
+API_BASE_URL=https://................amazonaws.com
 ENV=development
 ```
 
